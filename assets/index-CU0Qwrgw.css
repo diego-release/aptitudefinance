@@ -1,0 +1,1 @@
+::view-transition-old(root){animation-duration:.4s}::view-transition-new(root){animation-duration:.4s}::view-transition-old(root){animation-name:fade-out}::view-transition-new(root){animation-name:fade-in}@keyframes fade-out{0%{opacity:1}to{opacity:0}}@keyframes fade-in{0%{opacity:0}to{opacity:1}}
