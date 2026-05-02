@@ -32,9 +32,9 @@ El contenido, las herramientas y los datos presentados en este sitio son **exclu
 
 Si llegaste aquí a través de mis videos, este es el lugar donde materializo todas las herramientas que menciono en el contenido. Si tienes sugerencias o quieres colaborar, puedes encontrarme en:
 
-*   **TikTok / YouTube:** [@TuUsuario]
-*   **Sitio Web:** [tu-dominio.com]
-*   **Email:** [tu@email.com]
+*   **TikTok / YouTube:** [diego_release]
+*   **Sitio Web:** [https://diego-release.github.io/]
+*   **Email:** [diegoatdev@email.com]
 
 ---
 *Desarrollado con ❤️ para la comunidad cripto.*
